@@ -32,7 +32,7 @@ For the exploratory data analysis, the following was conducted:
 #### Maximum Retail Price ($)
 ![image](https://github.com/FiyonaK/Prediction-of-Product-Sales/assets/138833676/e434c63f-cf63-4bfe-ab70-b68bf5c63f4c)
 
-This histogram shows that he majority of items are have a maximum retail price of between $100 and $200 with a slight dip just under the $150 mark.
+This histogram shows that the majority of items have a maximum retail price of between $100 and $200 with a slight dip just under the $150 mark.
 
 #### Explanatory Data Analysis
 For the explanatory data analysis, the following was conducted:
@@ -54,6 +54,7 @@ This visual shows Supermarket Type 3 has the highest average number of sales tha
 ## Machine Learning Models:
 
 The following models were used:
+
     Linear Regression Model
     Random Forest Regressor Model
     Tuned Random Forest Regressor Model
